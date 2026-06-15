@@ -1,4 +1,3 @@
-```md
 ## MedCare Company
 
 **MedCare Healthcare Group**
@@ -158,4 +157,3 @@ Approximately **USD $0.40–$0.80 per hour**, depending on VM runtime.
 ## Learning Outcome
 
 Upon completion of this lab, you will be able to deploy and secure a production-ready Azure virtual machine following enterprise requirements and best practices commonly encountered by Azure Administrators.
-```
